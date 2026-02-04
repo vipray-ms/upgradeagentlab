@@ -1,0 +1,33 @@
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+namespace ApiLegacyHost.Controllers;
+
+[ApiController]
+[Route("api/[controller]")]
+[Authorize]
+public class TodosController : ControllerBase
+{
+    private static readonly List<Todo> Todos = new()
+    {
+        new Todo(1, "Buy groceries", false),
+        new Todo(2, "Walk the dog", true),
+        new Todo(3, "Finish project", false)
+    };
+
+    private readonly RouteInfoService _routeInfoService;
+
+    public TodosController(RouteInfoService routeInfoService)
+    {
+        _routeInfoService = routeInfoService;
+    }
+
+    [HttpGet]
+    public ActionResult<IEnumerable<Todo>> GetTodos()
+    {
+        var routeInfo = _routeInfoService.GetCurrentRouteInfo();
+        return Ok(Todos);
+    }
+}
+
+public record Todo(int Id, string Title, bool IsCompleted);

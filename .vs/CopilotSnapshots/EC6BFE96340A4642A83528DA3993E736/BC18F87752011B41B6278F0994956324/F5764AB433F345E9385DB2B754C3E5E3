@@ -1,0 +1,63 @@
+﻿using DataAccess.Models;
+using DataAccess.Repositories;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+namespace ApiLegacyHost.Controllers;
+
+[ApiController]
+[Route("api/[controller]")]
+[Authorize]
+public class TodosController : ControllerBase
+{
+    private readonly ITodoRepository _todoRepository;
+    private readonly RouteInfoService _routeInfoService;
+
+    public TodosController(ITodoRepository todoRepository, RouteInfoService routeInfoService)
+    {
+        _todoRepository = todoRepository;
+        _routeInfoService = routeInfoService;
+    }
+
+    [HttpGet]
+    [AllowAnonymous]
+    public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodos()
+    {
+        var routeInfo = _routeInfoService.GetCurrentRouteInfo();
+        var todos = await _todoRepository.GetAllAsync();
+        return Ok(todos);
+    }
+
+    [HttpGet("by-ids")]
+    public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodosByIds([FromQuery] int[] ids)
+    {
+        var todos = await _todoRepository.GetByIdsAsync(ids);
+        return Ok(todos);
+    }
+
+    [HttpPost]
+    [AllowAnonymous]
+    public async Task<ActionResult<TodoItem>> CreateTodo([FromBody] CreateTodoRequest request)
+    {
+        var item = new TodoItem
+        {
+            Title = request.Title,
+            IsDone = false
+        };
+        
+        await _todoRepository.AddAsync(item);
+        await _todoRepository.SaveChangesAsync();
+        
+        return CreatedAtAction(nameof(GetTodos), new { id = item.Id }, item);
+    }
+
+    [HttpPut("{id}/mark-done")]
+    public async Task<IActionResult> MarkDone(int id)
+    {
+        await _todoRepository.MarkDoneAsync(id);
+        await _todoRepository.SaveChangesAsync();
+        return NoContent();
+    }
+}
+
+public record CreateTodoRequest(string Title);

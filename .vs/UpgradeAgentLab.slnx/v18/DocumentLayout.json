@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tulikac\\source\\repos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|c:\\users\\tulikac\\source\\repos\\apilegacyhost\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|solutionrelative:apilegacyhost\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|c:\\users\\tulikac\\source\\repos\\apilegacyhost\\services\\routeinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|solutionrelative:apilegacyhost\\services\\routeinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|c:\\users\\tulikac\\source\\repos\\apilegacyhost\\apilegacyhost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|solutionrelative:apilegacyhost\\apilegacyhost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|c:\\users\\tulikac\\source\\repos\\apilegacyhost\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|solutionrelative:apilegacyhost\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\tulikac\\source\\repos\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\tulikac\\source\\repos\\dataaccess\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\tulikac\\source\\repos\\dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\tulikac\\source\\repos\\dataaccess\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\tulikac\\source\\repos\\dataaccess\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tulikac\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\505873308\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|c:\\users\\tulikac\\source\\repos\\apilegacyhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A79134A-CBC7-721F-8821-A41A44229AA2}|ApiLegacyHost\\ApiLegacyHost.csproj|solutionrelative:apilegacyhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\razorui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\razorui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\pages\\todos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\pages\\todos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\pages\\todos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\pages\\todos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|c:\\users\\tulikac\\source\\repos\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|c:\\users\\tulikac\\source\\repos\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|c:\\users\\tulikac\\source\\repos\\tests\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|c:\\users\\tulikac\\source\\repos\\razorui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CCA1698E-FCDD-2220-3342-9FC77DDCEF46}|RazorUi\\RazorUi.csproj|solutionrelative:razorui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\README.md",
+              "RelativeDocumentMoniker": "RazorUi\\README.md",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\README.md",
+              "RelativeToolTip": "RazorUi\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-04T03:22:14.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\Tests\\README.md",
+              "RelativeDocumentMoniker": "Tests\\README.md",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\Tests\\README.md",
+              "RelativeToolTip": "Tests\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-04T03:22:14.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorUi\\appsettings.json",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\appsettings.json",
+              "RelativeToolTip": "RazorUi\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAABBwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T02:36:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorUi\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorUi\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T02:36:05.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Todos.cshtml",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Pages\\Todos.cshtml",
+              "RelativeDocumentMoniker": "RazorUi\\Pages\\Todos.cshtml",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Pages\\Todos.cshtml",
+              "RelativeToolTip": "RazorUi\\Pages\\Todos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T02:35:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Todos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Pages\\Todos.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorUi\\Pages\\Todos.cshtml.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Pages\\Todos.cshtml.cs",
+              "RelativeToolTip": "RazorUi\\Pages\\Todos.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:35:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "RazorUi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "RazorUi\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:35:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Program.cs",
+              "RelativeDocumentMoniker": "RazorUi\\Program.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\Program.cs",
+              "RelativeToolTip": "RazorUi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABBwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:35:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RazorUi",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\RazorUi.csproj",
+              "RelativeDocumentMoniker": "RazorUi\\RazorUi.csproj",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\RazorUi\\RazorUi.csproj",
+              "RelativeToolTip": "RazorUi\\RazorUi.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAABBwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T02:35:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "ApiLegacyHost\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "ApiLegacyHost\\Controllers\\TodosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:03:17.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAABBwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:46:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tests",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T02:46:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAABBwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T09:19:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Models\\TodoItem.cs",
+              "RelativeToolTip": "DataAccess\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:19:43.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:19:48.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:19:53.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\DataAccess\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:19:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\505873308\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\505873308\\Class1.cs",
+              "ToolTip": "C:\\Users\\tulikac\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\505873308\\Class1.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\505873308\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:20:03.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Program.cs",
+              "RelativeDocumentMoniker": "ApiLegacyHost\\Program.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Program.cs",
+              "RelativeToolTip": "ApiLegacyHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:25:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Services\\RouteInfoService.cs",
+              "RelativeDocumentMoniker": "ApiLegacyHost\\Services\\RouteInfoService.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Services\\RouteInfoService.cs",
+              "RelativeToolTip": "ApiLegacyHost\\Services\\RouteInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:03:22.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Startup.cs",
+              "RelativeDocumentMoniker": "ApiLegacyHost\\Startup.cs",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\Startup.cs",
+              "RelativeToolTip": "ApiLegacyHost\\Startup.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIBZwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:03:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiLegacyHost.csproj",
+              "DocumentMoniker": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\ApiLegacyHost.csproj",
+              "RelativeDocumentMoniker": "ApiLegacyHost\\ApiLegacyHost.csproj",
+              "ToolTip": "C:\\Users\\tulikac\\source\\repos\\ApiLegacyHost\\ApiLegacyHost.csproj",
+              "RelativeToolTip": "ApiLegacyHost\\ApiLegacyHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T09:02:58.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiLegacyHost/ApiLegacyHost.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" />
+  <Project Path="RazorUi/RazorUi.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+</Solution>
